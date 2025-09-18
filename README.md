@@ -1,1 +1,1 @@
-https://www.geeksforgeeks.org/system-design/factory-method-for-designing-pattern/
+https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
